@@ -11,7 +11,7 @@
 
     <!-- External Monitor -->
     <string name="extmonitor_setting_header">External Monitor</string>
-    <string name="extmonitor_summary">Modify external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
+    <string name="extmonitor_summary">Enable External Monitor to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
 
     <!-- Dolby Sound -->
     <string name="audio_title">Audio</string>

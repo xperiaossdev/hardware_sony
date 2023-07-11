@@ -32,7 +32,7 @@
             android:persistent="false">
             <intent
                  android:targetPackage="com.sonymobile.extmonitorapp"
-                 android:targetClass="com.sonymobile.extmonitorapp.MonitorProActivity" />
+                 android:targetClass="com.sonymobile.extmonitorapp.settings.SettingsAppLauncherActivity" />
         </Preference>
 
     </PreferenceCategory>
